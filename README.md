@@ -1,4 +1,4 @@
-![image](https://github.com/Jiya-code21/Jiya-code21/assets/173032970/812e4d3e-5bc6-411c-b726-93ffd5ab4e60)
+
 
 <h1 align="center" style="color: #3b82f6; font-size: 2.25rem;">Hi 👋, I'm Jiya Agrawal</h1>
 
