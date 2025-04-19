@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt0bm03Zm8yMTltZzczeTRvNDE0cm5tNjlqYmxpcHc0cXN5eDB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChKeGsmsfE3Un6/giphy.gif">
 
-About Me 🌱<br><br>🎯 I’m currently working on: Java, Competitive Programming, Web Development <br>🤝 I’m looking to collaborate on: Open Source Projects & Coding Challenges <br>🌱 I’m currently learning: Java & React<br>💬 Ask me about: Java | Web Tech | Competitive Coding<br>⚡ Fun fact: My code runs smoother when my playlist is on 🎧💻<br>
+About Me 👩‍💻<br><br>🎯 I’m currently working on: Java, Competitive Programming, Web Development <br>🤝 I’m looking to collaborate on: Open Source Projects & Coding Challenges <br>🌱 I’m currently learning: Java & React<br>💬 Ask me about: Java | Web Tech | Competitive Coding<br>⚡ Fun fact: My code runs smoother when my playlist is on 🎧💻<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyaagrawal21) 
