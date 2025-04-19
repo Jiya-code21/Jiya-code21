@@ -5,7 +5,6 @@
 </p>
 
 <h1 align="center" style="color: #3b82f6; font-size: 2.25rem;">Hi 👋, I'm Jiya Agrawal</h1>
-<br>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt0bm03Zm8yMTltZzczeTRvNDE0cm5tNjlqYmxpcHc0cXN5eDB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChKeGsmsfE3Un6/giphy.gif">
 
