@@ -1,5 +1,6 @@
 ![image](https://github.com/Jiya-code21/Jiya-code21/assets/173032970/812e4d3e-5bc6-411c-b726-93ffd5ab4e60)
-<h1 align="center" class="text-blue-500 text-3xl">Hi 👋, I'm Jiya Agrawal</h1>
+<h1 align="center" style="color: #3b82f6; font-size: 2.25rem;">Hi 👋, I'm Jiya Agrawal</h1>
+
 
 
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
