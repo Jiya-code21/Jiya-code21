@@ -4,7 +4,7 @@
 
 <h1 align="center" style="color: #3b82f6; font-size: 2.25rem;">Hi 👋, I'm Jiya Agrawal</h1>
 
-<img align="right" alt="coding" width="4000" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+<img align="right" alt="coding" width="100000" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
 About Me 🌱<br><br>🎯 I’m currently working on: Java, Competitive Programming, Web Development <br>🤝 I’m looking to collaborate on: Open Source Projects & Coding Challenges <br>🌱 I’m currently learning: Java & React<br>💬 Ask me about: Java | Web Tech | Competitive Coding<br>⚡ Fun fact: My code runs smoother when my playlist is on 🎧💻<br>
 
