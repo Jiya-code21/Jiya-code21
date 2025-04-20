@@ -4,11 +4,12 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRheXA5OXJ4Z3ByMHI2YzYxZzcxM3A5aGcyNWN0YWM5ajhmY2hndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
 </p>
 
-<h1 align="center" style="color: #3b82f6; font-size: 2.25rem;">
+<h1 align="center" style="color: indigo; font-size: 2.25rem;">
   Hi 
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" alt="waving hand" width="35" style="vertical-align: middle;">
-  , I'm Jiya Agrawal
+  , I'm <span style="color: indigo;">Jiya Agrawal</span>
 </h1>
+
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt0bm03Zm8yMTltZzczeTRvNDE0cm5tNjlqYmxpcHc0cXN5eDB0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46ChKeGsmsfE3Un6/giphy.gif">
 
 Do more, learn more, help more — that’s the true way to shine  🚀✨
