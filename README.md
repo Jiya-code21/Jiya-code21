@@ -16,6 +16,9 @@ What's inside matters more than what's outside 🚀✨
 
 About Me 👩‍💻<br><br>🎯 I’m currently working on: Java, Competitive Programming, Web Development <br>🤝 I’m looking to collaborate on: Open Source Projects & Coding Challenges <br>🌱 I’m currently learning: Java & React<br>💬 Ask me about: Java | Web Tech | Competitive Coding<br>⚡ Fun fact: My code runs smoother when my playlist is on 🎧💻<br>
 
+🎮 I’ve completed PropsGo — a React & Three.js game project to understand the concept of Props Drilling in a fun and creative way!
+Link-->https://rosebud.ai/p/65afb64d-2a09-4bfc-beef-009c75bc4e5c
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jiyaagrawal21) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JiyaAgr) 
