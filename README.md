@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRheXA5OXJ4Z3ByMHI2YzYxZzcxM3A5aGcyNWN0YWM5ajhmY2hndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
-</p>
+</p> 
 
 <h1 align="center" style="color: indigo; font-size: 2.25rem;">
   Hi 
