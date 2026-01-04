@@ -47,6 +47,9 @@ About Me 👩‍💻<br><br>🎯 I’m currently working on: Java, Competitive P
 ![](https://nirzak-streak-stats.vercel.app/?user=Jiya-code21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-code21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Jiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jiya-code21&theme=react-dark)
+
+
 
 
 ---
