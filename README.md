@@ -41,6 +41,8 @@ About Me 👩‍💻<br><br>🎯 I’m currently working on: Java, Competitive P
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![trophy](https://github-profile-trophy.vercel.app/?username=Jiya-code21&theme=discord)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jiya-code21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
