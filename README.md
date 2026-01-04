@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Jiya-code21&label=Profile%20Views&color=blueviolet&style=flat)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Jiya-code21&icon=5&color=6)
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRheXA5OXJ4Z3ByMHI2YzYxZzcxM3A5aGcyNWN0YWM5ajhmY2hndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
