@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Jiya-code21&label=Profile%20Views&color=blueviolet&style=flat)
+<img width="3072" height="1404" alt="image" src="https://github.com/user-attachments/assets/ffd2f1d2-20ef-4da7-a3e8-83000a709d9c" />![](https://komarev.com/ghpvc/?username=Jiya-code21&label=Profile%20Views&color=blueviolet&style=flat)
 
 
 <p align="center">
@@ -50,6 +50,7 @@ About Me 👩‍💻<br><br>🎯 I’m currently working on: Java, Competitive P
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiya-code21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Jiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jiya-code21&theme=react-dark)
+
 
 
 
